@@ -46,5 +46,5 @@ done faster.
 
 Kudos from Germany,
 
-[@cookiengineer](https://github.com/cookiengineer]
+[@cookiengineer](https://github.com/cookiengineer)
 
